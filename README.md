@@ -22,6 +22,7 @@ Some lessons learnt from experience
 Results uploaded to Youtube
 
 Video White
-[![Video White](https://github.com/CYHSM/carnd/blob/master/CarND-LaneLines-P1/white.gif?raw=true)](https://youtu.be/D7xby1-8GI0) Video Yellow
-[![Video Yellow](https://github.com/CYHSM/carnd/blob/master/CarND-LaneLines-P1/yellow.gif?raw=true)](https://youtu.be/-qIGKi5mOCA)
+https://youtu.be/D7xby1-8GI0
+
+[![Video Yellow]https://youtu.be/-qIGKi5mOCA
 
