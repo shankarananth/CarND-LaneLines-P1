@@ -36,7 +36,7 @@ Some lessons learnt from experience
 
 5) I did not have experience with Jupyter. It is very different for a coding environment. However after using it I could visibly see the advantage of such an environment.
 
-6) Line Extrapolation - I used y=mx+c to identify extrapolated line (First identify slope with co-ordinates ((y2-y1)/(x2-x1)), Second calculate C and Third idenfy new co-ordiantes based on given y-axis)
+6) Line Extrapolation - I used y=mx+c draw the extrapolated line (First identify slope with co-ordinates ((y2-y1)/(x2-x1)), Second calculate C and Third identify new co-ordinates based on given y-axis)
 
 Results uploaded to Youtube
 
