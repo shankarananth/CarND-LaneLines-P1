@@ -21,6 +21,7 @@ Some lessons learnt from experience
 
 Results uploaded to Youtube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D7xby1-8GI0" frameborder="0" allowfullscreen></iframe>
+Video White
+[![Video White](https://github.com/CYHSM/carnd/blob/master/CarND-LaneLines-P1/white.gif?raw=true)](https://youtu.be/D7xby1-8GI0) Video Yellow
+[![Video Yellow](https://github.com/CYHSM/carnd/blob/master/CarND-LaneLines-P1/yellow.gif?raw=true)](https://youtu.be/-qIGKi5mOCA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-qIGKi5mOCA" frameborder="0" allowfullscreen></iframe>
