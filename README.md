@@ -18,9 +18,11 @@ I used the following sequence of steps to arrive at the solution
 
 <img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg4Mask.jpg" width="480" alt="ROI Image" />
 
-5) Hough Transformation
+5) Hough Transformation and Extrapolation
 
 <img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg5Hough.jpg" width="480" alt="Hough Image" />
+
+<img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg6Weight.jpg" width="480" alt="Hough Image" />
 
 Some lessons learnt from experience
 
@@ -33,6 +35,8 @@ Some lessons learnt from experience
 4) In terms of improvement I could further smooth the lines across frames in video.
 
 5) I did not have experience with Jupyter. It is very different for a coding environment. However after using it I could visibly see the advantage of such an environment.
+
+6) Line Extrapolation - I used y=mx+c to identify extrapolated line (First identify slope with co-ordinates ((y2-y1)/(x2-x1)), Second calculate C and Third idenfy new co-ordiantes based on given y-axis)
 
 Results uploaded to Youtube
 
