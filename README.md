@@ -3,9 +3,13 @@
 I used the following sequence of steps to arrive at the solution
 
 1) Grayscale Image 
+
 2) Guassian Blur 
+
 3) Canny Edge Detection 
+
 4) Region of Interest 
+
 5) Hough Transformation
 
 Some lessons learnt from experience
