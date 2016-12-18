@@ -1,6 +1,7 @@
 #**Finding Lane Lines on the Road** 
 
 I used the following sequence of steps to arrive at the solution
+
 1) Grayscale Image 
 2) Guassian Blur 
 3) Canny Edge Detection 
