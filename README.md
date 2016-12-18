@@ -8,19 +8,19 @@ I used the following sequence of steps to arrive at the solution
 
 2) Guassian Blur 
 
-<img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg1Guass.jpg" width="480" alt="Guass Blur Image" />
+<img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg2Guass.jpg" width="480" alt="Guass Blur Image" />
 
 3) Canny Edge Detection 
 
-<img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg1Edge.jpg" width="480" alt="Canny Edge Detection Image" />
+<img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg3Edge.jpg" width="480" alt="Canny Edge Detection Image" />
 
 4) Region of Interest 
 
-<img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg1Mask.jpg" width="480" alt="ROI Image" />
+<img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg4Mask.jpg" width="480" alt="ROI Image" />
 
 5) Hough Transformation
 
-<img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg1Hough.jpg" width="480" alt="Hough Image" />
+<img src="https://github.com/shankarananth/CarND-LaneLines-P1/blob/master/debug_images/solidWhiteCurve.jpg5Hough.jpg" width="480" alt="Hough Image" />
 
 Some lessons learnt from experience
 
